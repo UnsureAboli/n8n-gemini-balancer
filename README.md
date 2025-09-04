@@ -31,3 +31,7 @@
 ```javascript
 const randomNumber = Math.floor(Math.random() * 10) + 1;
 return { randomNumber };
+
+
+https://github.com/UnsureAboli/n8n-gemini-balancer/blob/main/image_2025-09-05_003759571.png
+
